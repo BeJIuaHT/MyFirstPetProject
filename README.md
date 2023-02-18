@@ -1,1 +1,1 @@
-# My project
+# It is my first pet project.
