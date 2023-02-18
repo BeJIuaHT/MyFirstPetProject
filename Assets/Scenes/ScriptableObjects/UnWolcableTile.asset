@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 568efed4e6c43094f8b824c8faf361c6, type: 3}
+  m_Name: UnWolcableTile
+  m_EditorClassIdentifier: 
+  Tiles:
+  - {fileID: 11400000, guid: 468dd62d6212f7543bd9c3680c596c79, type: 2}
+  - {fileID: 11400000, guid: c9f97646be1e4904ea5345ed02f7ca8c, type: 2}
+  - {fileID: 11400000, guid: 1c340932ff35166408529302fa8702ce, type: 2}
+  - {fileID: 11400000, guid: 1895ac19748305a44b5b917db831f2ab, type: 2}
+  - {fileID: 11400000, guid: 3cfa2d0b9d39b1744b9c826e155e99b0, type: 2}
+  - {fileID: 11400000, guid: e1d5e08cafc9cf349852fe15577df7d3, type: 2}
+  test1: 1
+  walckable: 0
